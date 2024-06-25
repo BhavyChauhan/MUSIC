@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "VIP_MUSICX_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "DEADLY_MUSIC_BOT")
 
 # Don't Add style font 
 BOT_USERNAME2 = getenv("BOT_USERNAME2" , "VIP_MUSICX")
@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
     # Don't edit variables below this line #
-SUDO_USERS = [6566179661, 6415940074]
+SUDO_USERS = [6784803685,7304804540]
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
@@ -47,8 +47,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_VIP_SUPPORT_ll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/II_VIP_FUCKERS_II")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Deadly_official")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Deadly_Fuckers_69")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
